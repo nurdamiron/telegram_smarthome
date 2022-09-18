@@ -9,3 +9,4 @@ Through telegram bot you can check:
 5. Cooling and heating mode
 
 The most important thing is that all this works remotely, where you have not been, you will have the opportunity to receive data from your home.
+For help, you can contact me via telegram @nurstogramm or via email nurdamiron@gmail.com
