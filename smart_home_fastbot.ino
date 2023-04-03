@@ -8,7 +8,6 @@
 #include <Adafruit_NeoPixel.h>
 #include <FastBot.h>
 
-
 #define WIFI_SSID "SmartHome"
 #define WIFI_PASS "smarthome"
 #define BOT_TOKEN "5564120883:AAH7rTRVJ6G9s5iuNoF47KQQ1OzheZMpYXM"
