@@ -7,7 +7,6 @@ char index_html[] PROGMEM = R"=====(
   <meta name='viewport' content='width=device-width, initial-scale=1.0' />
   <title>WS2812FX Control</title>
   <script type='text/javascript' src='main.js'></script>
-
   <style>
     body {
       font-family:Arial,sans-serif;
